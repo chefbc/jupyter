@@ -1,0 +1,8 @@
+fabric
+jupyter
+pandas
+numpy
+scipy
+plotly
+requests
+ipywidgets
